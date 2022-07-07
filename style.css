@@ -119,8 +119,58 @@ h1 {
 
 }
 
+.last-part-1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.last-part-2 {
+    text-align: center;
+}
+
+.last-part-3 {
+    width: 500px;
+    background-color: rgb(240, 209, 187);
+    padding: 100px;
+    padding-left: 290px;
+    margin: 5% 20%;
+}
+
 .extra-part {
     display: flex;
+    margin-top: 10%;
+
+}
+
+.extra-part-1 {
+
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.extra-part-2 {
+
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: rgb(207, 207, 207);
+}
+
+.email-field {
+    background-color: rgb(216, 216, 216);
+    border: none;
+    padding: 10px;
+}
+
+.subscribe-btn {
+    background-color: tomato;
+    border: none;
+    padding: 10px;
+    margin-left: 0;
 }
 
 footer {
@@ -128,10 +178,11 @@ footer {
     font-family: 'Bitter', serif;
     background-color: black;
     color: azure;
-
     padding-bottom: 1%;
+    padding-top: 1%;
     margin-left: 0px;
     margin-right: 0px;
+    margin-top: 10%;
 
 }
 
